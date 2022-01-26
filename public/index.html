@@ -6,14 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="theme-color" content="#000000">
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
-  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+  <link rel="shortcut icon" href="%PUBLIC_URL%/jamsanz.ico">
   <link rel="stylesheet" href="%PUBLIC_URL%/css/default.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
-
-
-  <title>PAPA Resume Starter Pack</title>
+  <style>
+  .se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(/images/Preloader_3.gif) center no-repeat #fff;
+    }
+  </style>
+  <title>Jamsanz's Portfolio</title>
 </head>
 
 <body>
@@ -21,13 +30,16 @@
     You need to enable JavaScript to run this app.
   </noscript>
   <div id="root"></div>
-
+  <!-- <div class="se-pre-con"></div> -->
 
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-
+  <!-- <script src="js/jquery.js"></script> -->
+  <script>
+    // $(".se-pre-con").delay(2000).fadeOut("slow");
+    </script>
   <script src="js/jquery.flexslider.js"></script>
   <script src="js/waypoints.js"></script>
   <script src="js/jquery.fittext.js"></script>

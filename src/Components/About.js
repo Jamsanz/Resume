@@ -47,8 +47,8 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Download Resume
+                <a href={resumeDownload} className="button" download>
+                  <i className="fa fa-download"></i> Download Resume
                 </a>
               </p>
             </div>
