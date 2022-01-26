@@ -60,6 +60,18 @@
         "title": "Fullstack Software Developer",
         "years": "April 2021 - Present",
         "description": "Developing and maintaing full stack applications using MERN Stack technologies"
+      },
+      {
+        "company": "Fixable Systems",
+        "title": "IT Intern",
+        "years": "September - December, 2018",
+        "description": "Setting up small offices (Switching & routing) - Networking Computer software(OS) and hardware repairs - Maintenance Managing databases - Database Administrator (MYSQL)"
+      },
+      {
+        "company": "Khemsafe Computer Institute",
+        "title": "IT Intern",
+        "years": "September - December, 2017",
+        "description": "Graphics designer: Design and visualization of company logos. Design and visualization of flyers and banners. Web developer: Design and development of basic websites using HTML & CSS"
       }
     ],
     "skills": [
