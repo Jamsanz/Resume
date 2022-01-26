@@ -27,7 +27,7 @@ const Portfolio = ({ data }) => {
 
   return (
     <section id="portfolio">
-      <div className="row">
+      <div className="row p-15">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
 

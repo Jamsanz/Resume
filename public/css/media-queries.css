@@ -126,6 +126,9 @@
       top: 15px;
       right: 15px;
    }
+   .p-15{
+      padding: 10px 30px;
+   }
 
 	#nav-wrap > a:before,
    #nav-wrap > a:after {
