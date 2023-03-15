@@ -4,7 +4,7 @@
     "occupation": "REACT NINJA",
     "description": "I eat, sleep and breathe React",
     "image": "nerd.png",
-    "bio": "Hi there! I am Muhammad! A software developer with experience in designing and developing software applications using React + Redux, Nextjs, Node, Typescript, MySQL, and NoSQL MongoDB (Mongoose), and so also, I have built and worked with Restful API(s). The amount of time I have spent in the current company I'm working for has taught me a lot about software development, best practices, and clean code writing. I was opportune to have worked with a team of fine software developers ranging from senior developers to junior developers like me. We have built sophisticated systems like Monitoring and evaluation systems, Application portals, and Administrative dashboards. I started as a javascript developer earlier this year (2021) but in the course of my journey, I am currently more comfortable writing typescript applications than javascript. I am a relentless competent team player with a lot of muscle for project delivery and success. I have a lot of passion for learning more and growing more. I am very passionate about building highly sophisticated systems that would change the world.",
+    "bio": "Hi there! I am Muhammad Sani and I am a software engineer with 2 years of experience in the field. I have honed my skills in various technologies including but not limited to ReactJS, NextJS, React Native, NodeJS, NestJS, GraphQL, REST API(s), MySQL and MongoDB. I am passionate about using technologies to build efficient and user-friendly solutions. My experience in these technologies has allowed me to work on projects that have had impact positive impact on both users and the companies I have worked for. I am constantly seeking new opportunities to learn and grow as a software engineer and to continue to contribute my skills to challenging and fulfilling projects.",
     "contactmessage": "Get in touch with me!",
     "email": "jamiludeensani@gmail.com",
     "phone": "+2347035483237",
@@ -14,8 +14,8 @@
       "state": "Federal Capital Territory",
       "zip": "901008"
     },
-    "website": "https://www.jamsanz.xyz",
-    "resumedownload": "/Muhammad_Sani_Jamil_VisualCV_Resume.pdf",
+    "website": "https://portfolio.jamsanz.xyz",
+    "resumedownload": "/Muhammad_Sani_Resume.pdf",
     "social": [
       {
         "name": "mail",
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Programming Languages / frameworks Proficiency",
     "education": [
       {
         "school": "Al-Qalam University Katsina - NG",
@@ -59,19 +59,13 @@
         "company": "Wootlab Innovations",
         "title": "Fullstack Software Developer",
         "years": "April 2021 - Present",
-        "description": "Developing and maintaing full stack applications using MERN Stack technologies"
+        "description": "Developed and maintained multiple applications using ReactJS, React Native, Redux, NestJS, NextJS and Typescript to create a dynamic user experience with optimal performance"
       },
       {
         "company": "Fixable Systems",
-        "title": "IT Intern",
+        "title": "Web Developer - Intern",
         "years": "September - December, 2018",
-        "description": "Setting up small offices (Switching & routing) - Networking Computer software(OS) and hardware repairs - Maintenance Managing databases - Database Administrator (MYSQL)"
-      },
-      {
-        "company": "Khemsafe Computer Institute",
-        "title": "IT Intern",
-        "years": "September - December, 2017",
-        "description": "Graphics designer: Design and visualization of company logos. Design and visualization of flyers and banners. Web developer: Design and development of basic websites using HTML & CSS"
+        "description": "Deigned and Developed several software applications using HTML, CSS, PHP and MYSQL"
       }
     ],
     "skills": [
@@ -80,66 +74,74 @@
         "level": "85%"
       },
       {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
         "name": "NextJs",
         "level": "85%"
       },
       {
-        "name": "Typescript",
-        "level": "75%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
+        "name": "NodeJs",
         "level": "85%"
       },
       {
-        "name": "Web Development",
+        "name": "NestJs",
+        "level": "85%"
+      },
+      {
+        "name": "Typescript",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
         "level": "90%"
       },
       {
-        "name": "React Native",
-        "level": "50%"
+        "name": "REST API",
+        "level": "80%"
       },
       {
-        "name": "Flutter",
-        "level": "60%"
+        "name": "GraphQL",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone (Next JS)",
+        "title": "Nigerian Jubilee Fellowship Programme (NJFP)",
         "category": "",
-        "image": "amazon.jpg",
-        "url": "https://amazon.jamsanz.xyz"
+        "image": "njfp.png",
+        "url": "https://njfp.ng"
       },
       {
-        "title": "Google Clone (React JS)",
+        "title": "Mobile App iOS & Android for reporting electoral incidents (weWatch)",
         "category": "",
-        "image": "google.jpg",
-        "url": "https://google.jamsanz.xyz"
+        "image": "wewatch.png",
+        "url": "https://play.google.com/store/apps/details?id=com.jamsanz.weWatch"
       },
       {
-        "title": "Uber Clone (React Native)",
+        "title": "Mobile App iOS & Android for property management (Ab-properties)",
         "category": "",
-        "image": "uber-clone.jpg",
-        "url": "https://expo.dev/@jamsanz/uber-clone"
+        "image": "b1.png",
+        "url": "https://play.google.com/store/apps/details?id=xyz.jamsanz.abproperties"
       },
       {
-        "title": "OPGAN (Next JS)",
+        "title": "AI powered fraud prevention for fintechs and e-commerce in Africa (MayGuard)",
         "category": "",
-        "image": "opgan-logo.png",
-        "url": "https://opgan.ng"
+        "image": "mayguard.png",
+        "url": "https://portal.mayguard.ai"
       },
       {
-        "title": "MediaPlus (Next JS)",
+        "title": "Fullstack Web Application for Wootlab Innovations ",
         "category": "",
-        "image": "mediaplus.jpg",
-        "url": "https://atmediaplus-consultancy.org"
+        "image": "wootlab.png",
+        "url": "https://wootlab.ng/"
       }
     ]
   },

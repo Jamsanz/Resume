@@ -24,16 +24,15 @@ const Resume = ({ data }) => {
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
           {work.company.includes("Wootlab") ? <ul>
-            <li>Part of the team that developed software applications used by an organization (UNDP), targeted at achieving the organization's business objectives. These applications handled over 700,000 records for a national program. - <b>NJFP</b></li>
-            <li>Responsible for working on a range of projects with React & Nextjs as the primary frontend technologies.</li>
-            <li>Designing and developing appealing interactive websites on a daily basis.</li>
-            <li>Collaborating with UI/UX designers and backend developers in delivering user stories into real software solutions.</li>
-            <li>Working with robust REST API(s) for large enterprise applications</li>
-            <li>Worked with Google places and autocomplete API(s) on a taxi Application (Uber Clone) - React Native</li>
-            <li>Integrated Google Search API on a search application (Google Search Clone) - React</li>
-            <li>Built a number of restful API(s) with Express and Typescript</li>
-            <li>Assisted in training 52 Nigerian youths on web development(HTML, CSS, Javascript & Nodejs) and android development -Basecamp (Bootcamp)</li>
-            <li>Trained a number of kids on game development (scratch programming) - KidsCypher</li>
+            <li>Developed and maintained multiple applications using ReactJS, Redux, and Typescript to create a dynamic user experience with optimal performance.</li>
+            <li>Used NextJS to build fast and optimized server-side rendered React applications, resulting in improved user experience and increased performance.</li>
+            <li>Built cross-platform mobile applications using React Native and integrated with REST API(s) to access and manage data from the backend.</li>
+            <li>Worked with NodeJS to build scalable and efficient server-side applications and integrated them with GraphQL and REST API(s) for optimized data retrieval and management.</li>
+            <li>Implemented data storage solutions using both MySQL and MongoDB, ensuring data consistency and security across all applications.</li>
+            <li>Utilized Redux to manage and maintain the state of applications, resulting in improved app functionality and user experience.</li>
+            <li>Designed and implemented efficient data retrieval systems using GraphQL, resulting in reduced load times and improved data management.</li>
+            <li>Maintained code quality and collaborated with the development team to ensure all applications were developed to meet the needs of clients and users.</li>
+            <li>Contributed to the implementation of continuous integration and delivery processes using Git, GitHub, and Vercel to ensure the seamless delivery of updates and new features to users.</li>
           </ul>
           : <p>{work.description}</p>
           }
