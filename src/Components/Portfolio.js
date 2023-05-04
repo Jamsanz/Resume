@@ -7,7 +7,7 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="basis portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} target="_blank">
               <img alt={projects.title} src={projectImage} style={{objectFit: "contain"}} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
