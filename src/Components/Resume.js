@@ -34,7 +34,15 @@ const Resume = ({ data }) => {
             <li>Maintained code quality and collaborated with the development team to ensure all applications were developed to meet the needs of clients and users.</li>
             <li>Contributed to the implementation of continuous integration and delivery processes using Git, GitHub, and Vercel to ensure the seamless delivery of updates and new features to users.</li>
           </ul>
-          : <p>{work.description}</p>
+            :
+            work.company.includes("Fixable") ? <ul>
+              <li>Designed and developed a restaurant management system for tracking inventories and sales</li>
+              <li>Designed and developed an online helpdesk system for university students to lodge their complaints regarding difficulties they might be facing in the university using HTML, CSS, PHP, and MySQL.</li>
+              <li>Set up small offices (Switching & routing) - Networking</li>
+              <li>Computer software(OS) and hardware repairs - Maintenance</li>
+              <li>Managed databases - Database Administrator (MYSQL)</li>
+            </ul>:
+            <p>{work.description}</p>
           }
         </div>
       );

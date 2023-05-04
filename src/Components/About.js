@@ -21,6 +21,7 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
+            style={{ border: "5px white solid" }}
             alt="Sonny's Profile Pic"
           />
         </div>

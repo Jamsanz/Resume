@@ -3,7 +3,7 @@
     "name": "Muhammad",
     "occupation": "REACT NINJA",
     "description": "I eat, sleep and breathe React",
-    "image": "nerd.png",
+    "image": "passport-photograph.png",
     "bio": "Hi there! I am Muhammad Sani and I am a software engineer with 2 years of experience in the field. I have honed my skills in various technologies including but not limited to ReactJS, NextJS, React Native, NodeJS, NestJS, GraphQL, REST API(s), MySQL and MongoDB. I am passionate about using technologies to build efficient and user-friendly solutions. My experience in these technologies has allowed me to work on projects that have had impact positive impact on both users and the companies I have worked for. I am constantly seeking new opportunities to learn and grow as a software engineer and to continue to contribute my skills to challenging and fulfilling projects.",
     "contactmessage": "Get in touch with me!",
     "email": "jamiludeensani@gmail.com",
@@ -14,8 +14,8 @@
       "state": "Federal Capital Territory",
       "zip": "901008"
     },
-    "website": "https://portfolio.jamsanz.xyz",
-    "resumedownload": "/Muhammad_Sani_Resume.pdf",
+    "website": "https://jamsanz.vercel.app",
+    "resumedownload": "/Muhammad_Sani_May_Resume.pdf",
     "social": [
       {
         "name": "mail",
@@ -51,7 +51,7 @@
         "school": "Al-Qalam University Katsina - NG",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "July 2020",
-        "description": "Graduated with Second Class Upper Honours"
+        "description": "Second Class Upper Honours (CGPA: 4.4)"
       }
     ],
     "work": [
